@@ -1,0 +1,17 @@
+{
+    "firstname" : "Rajesh Singadala",
+    "dob" : "19-05-1996",
+    "origin" : "Rajamundry",
+    "designation" : "Goa",
+    "departure" : "08-02-2023",
+    "return" : "15-02-2023",
+    "billing" : "Raj Traders",
+    "mobile" : "9676842568",
+    "email" : "xyz@gmail.com",
+    "street" : "carlmark street",
+    "appartment" : "Elephant Enclave",
+    "town" : "Hyderabad",
+    "pincode" : "500014",
+    "country":"India"
+
+}
